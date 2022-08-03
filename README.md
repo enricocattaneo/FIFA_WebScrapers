@@ -3,6 +3,8 @@
 
 **AIM**: Using the BeautifulSoup package, scrape football teams' and players' information about FIFA attributes from the fifaindex.com website. This code considers from 2011 onwards and for five major European leagues (but can easily be extended to other years and football competitions).
 
+Example of personally derived datasets: https://www.kaggle.com/datasets/enricocattaneo/fifa-videogame-players-and-teams-data.
+
 # **Scrape Teams & Scrape Players**
 
 - [All Functions](#allfunctions)
